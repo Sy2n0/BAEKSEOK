@@ -5,6 +5,6 @@
 기능
 - [x] Login
 - [x] Register 
-- [ ] Home Design
+- [x] Home Design
+- [x] BU-TOP Information
 - [ ] BU-Point Information
-- [ ] BU-TOP Information
