@@ -7,4 +7,4 @@
 - [x] Register 
 - [x] Home Design
 - [x] BU-TOP Information
-- [ ] BU-Point Information
+- [x] BU-Point Information
